@@ -1,4 +1,4 @@
-# TaprootWizards
+# TaprootWizards Hoodie
 
 Version 1.0
 ReadMe:
